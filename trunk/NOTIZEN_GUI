@@ -1,0 +1,19 @@
+Mögliche Toolkits
+
+urwid:
++ konsole & web/cgi
+- layout manuell, gecoded
+
+
+pyQT4:
++ multiplattform
+- kann nativ unter windows nicht bauen (OE - kompilieren / OBS - rpm/chroot)
+
+libyui: (libYastUI)
++ konsole & graphisch nur durch "unset DISPLAY" möglich
+- jung, wenig dokumentation
+
+
+python-curses
++ in python stdlib enthalten
+- layout viel handarbeit

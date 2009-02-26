@@ -1,0 +1,8 @@
+limbo (LiRE IMaging By Openembedded/OpensuseBuildService)
+
+
+Limbo is a GUI written to make imaging and configuring an 
+embedded realtime linux system easier.
+
+To start limbo, just type "python ./src/limbo.py"
+
